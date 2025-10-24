@@ -1,4 +1,4 @@
-<img width="1177" height="271" alt="483894139-410a645c-1f20-4053-994e-521648c248e1" src="https://github.com/user-attachments/assets/fad5ff0d-5ac3-4a3a-80b6-dab86ec98022" /># 🐍 Python OOP: Abstract Class & Method Example
+# 🐍 Python OOP: Abstract Class & Method Example
 
 ## 🎯 AIM
 
