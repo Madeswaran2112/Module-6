@@ -32,8 +32,7 @@ obj_goldfish.type()
 obj_hammerhead.type()
 ```
 ## OUTPUT
-<img width="839" height="289" alt="483894250-8ab32440-5842-4db9-838b-e29d3db8b3e6" src="https://github.com/user-attachments/assets/8d733cdf-3bac-4763-b368-b8f1436691bb" />
-
+<img width="839" height="289" alt="443966663-fc84bcbd-4502-44b2-bd78-396bdd996d19" src="https://github.com/user-attachments/assets/8ab32440-5842-4db9-838b-e29d3db8b3e6" />
 
 ## RESULT
 Thus,the program is executed successfully.
